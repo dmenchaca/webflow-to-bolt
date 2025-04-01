@@ -1,0 +1,17 @@
+{
+  "name": "rive-webflow-demo",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@rive-app/canvas": "^2.26.6"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
